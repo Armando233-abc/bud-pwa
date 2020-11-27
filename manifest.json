@@ -3,7 +3,7 @@
     "background_color": "#e94560",
     "display": "standalone",
     "scope": "/bud-pwa/",
-    "start_url": "/https://armando233-abc.github.io/bud-pwa/",
+    "start_url": "https://armando233-abc.github.io/bud-pwa/",
     "app_name": "Altrimenti ci arrabbiamo",
     "short_name": "SuperBud_2",
     "description": "App di prova",
