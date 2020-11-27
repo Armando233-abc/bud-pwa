@@ -1,0 +1,12 @@
+{
+    "name": "Altrimenti ci arrabiamo",
+    "short_name": "SuperBud_2",
+    "description": "App Prova",
+    "start_url": "https://armando233-abc.github.io/bud-pwa/",
+    "scope": "/bud-pwa/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "lang": "Italian",
+    "theme_color" : "#e94560",
+    "background_color": "#e94560"
+}
