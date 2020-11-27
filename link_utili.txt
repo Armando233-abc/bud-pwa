@@ -1,2 +1,7 @@
 Manifest - https://www.pwabuilder.com/generate
 ServiceWorker - https://www.pwabuilder.com/serviceworker
+
+
+P: Progressive
+W: Web
+A: App
